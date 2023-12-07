@@ -1,7 +1,5 @@
 ---
-title: "MegaBook"
+title: "Welcome to My Website"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My name in Nipun Nambiar. I am a Master's student at Virginia Tech in the Mechanical Engineering department. I like to workout and eat good food. I game a little bit and watch a lot of movies.
